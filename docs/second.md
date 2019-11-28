@@ -6,5 +6,4 @@
 
 ### Subtitle 2
 
-
 [a relative link](third.md)
