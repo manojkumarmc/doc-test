@@ -2,3 +2,4 @@ site_name: My Docs
 nav:
     - Home: index.md
     - Second: second.md
+theme: readthedocs
